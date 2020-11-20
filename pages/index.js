@@ -19,7 +19,8 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          Stay close. Work in progress...
+          <iframe src="https://www.google.com/maps/d/embed?mid=1N1k2S_T5fEsGAmIiNPuhOk4CXIPPT-mR" width="640" height="480"></iframe>
+          {/* Stay close. Work in progress... */}
           {/* <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
