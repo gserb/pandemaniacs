@@ -19,21 +19,21 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <div>
-            <a href="/map.html" >
+          
+            <a href="/map.html" className={styles.card}>
               <h3> 🚀 Go to the map   </h3>
+              <p>Explore transactions using the map</p>
             </a>
-          </div>
-          <div>
-            <a href="/map2.html" >
-              <h3> 💰 more transactions  </h3>
+          
+            <a href="/map2.html" className={styles.card}>
+              <h3> 💰 more data  </h3>
+              <p>40 x more transactions</p>
             </a>
-          </div>
-          <div>
-            <a href="/map3.html" >
+          
+            <a href="/map3.html" className={styles.card}>
               <h3> 🎯 as points  </h3>
+              <p>transcations in a diffrent view </p>
             </a>
-          </div>
           {/* Stay close. Work in progress... */}
           {/* <a href="https://nextjs.org/docs" className={styles.card}>
             <h3>Documentation &rarr;</h3>
