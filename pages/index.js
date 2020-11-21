@@ -25,12 +25,12 @@ export default function Home() {
               <p>Explore transactions using the map</p>
             </a>
           
-            <a href="/map2.html" className={styles.card}>
+            <a href="/map4.html" className={styles.card}>
               <h3> 💰 more data  </h3>
-              <p>40 x more transactions</p>
+              <p>50 x more transactions</p>
             </a>
           
-            <a href="/map3.html" className={styles.card}>
+            <a href="/map6.html" className={styles.card}>
               <h3> 🎯 as points  </h3>
               <p>transactions in a different view </p>
             </a>
