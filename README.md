@@ -1,4 +1,4 @@
-Pandemaniacs demo page
+Pandemaniacs demo page https://pandemaniacs.vercel.app/ (best on desktop)
 
 ## Getting Started
 
