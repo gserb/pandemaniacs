@@ -32,7 +32,7 @@ export default function Home() {
           
             <a href="/map3.html" className={styles.card}>
               <h3> 🎯 as points  </h3>
-              <p>transcations in a diffrent view </p>
+              <p>transcations in a different view </p>
             </a>
           {/* Stay close. Work in progress... */}
           {/* <a href="https://nextjs.org/docs" className={styles.card}>
