@@ -20,7 +20,13 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a href="/map.html" >
-            <h3> 🚀 Go to the map 🚀  </h3>
+            <h3> 🚀 Go to the map   </h3>
+          </a>
+           <a href="/map2.html" >
+            <h3> 💰 more transactions  </h3>
+          </a>
+          <a href="/map3.html" >
+            <h3> 🎯 as points  </h3>
           </a>
           {/* Stay close. Work in progress... */}
           {/* <a href="https://nextjs.org/docs" className={styles.card}>
