@@ -22,9 +22,11 @@ export default function Home() {
           <a href="/map.html" >
             <h3> 🚀 Go to the map   </h3>
           </a>
+          <br/><br/>
            <a href="/map2.html" >
             <h3> 💰 more transactions  </h3>
           </a>
+          <br/><br/>
           <a href="/map3.html" >
             <h3> 🎯 as points  </h3>
           </a>
