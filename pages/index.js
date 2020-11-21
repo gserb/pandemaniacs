@@ -20,17 +20,17 @@ export default function Home() {
 
         <div className={styles.grid}>
           
-            <a href="/map.html" className={styles.card}>
+            <a href="/map.html" className={styles.card} target="_blank">
               <h3> 🚀 Go to the map   </h3>
               <p>Explore transactions using the map</p>
             </a>
           
-            <a href="/map4.html" className={styles.card}>
+            <a href="/map4.html" className={styles.card} target="_blank">
               <h3> 💰 more data  </h3>
               <p>50 x more transactions</p>
             </a>
           
-            <a href="/map6.html" className={styles.card}>
+            <a href="/map6.html" className={styles.card} target="_blank">
               <h3> 🎯 as points  </h3>
               <p>transactions in a different view </p>
             </a>
