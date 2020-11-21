@@ -25,9 +25,10 @@ export default function Home() {
             </a>
           </div>
           <div>
-           <a href="/map2.html" >
-            <h3> 💰 more transactions  </h3>
-          </a>
+            <a href="/map2.html" >
+              <h3> 💰 more transactions  </h3>
+            </a>
+          </div>
           <div>
             <a href="/map3.html" >
               <h3> 🎯 as points  </h3>
