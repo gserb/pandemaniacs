@@ -64,6 +64,12 @@ export default function Home() {
           </a> */}
         </div>
       </main>
+      
+    <footer className={styles.footer}>
+      <a href="https://github.com/gserb/pandemaniacs" target="_blank">
+       The code is here >> Github
+      </a>
+    </footer>
 
       {/* <footer className={styles.footer}>
         <a
